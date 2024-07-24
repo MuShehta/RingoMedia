@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\personal\\Department\\Department\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|d:\\personal\\department\\department\\department\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|solutionrelative:department\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|d:\\personal\\department\\department\\department\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|solutionrelative:department\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|d:\\personal\\department\\department\\department\\services\\reminderemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|solutionrelative:department\\services\\reminderemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|d:\\personal\\department\\department\\department\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|solutionrelative:department\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|d:\\personal\\department\\department\\department\\controllers\\reminderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A36E363-AAB9-4127-BF43-CCE60F23F574}|Department\\Department.csproj|solutionrelative:department\\controllers\\reminderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\personal\\Department\\Department\\Department\\appsettings.json",
+              "RelativeDocumentMoniker": "Department\\appsettings.json",
+              "ToolTip": "D:\\personal\\Department\\Department\\Department\\appsettings.json",
+              "RelativeToolTip": "Department\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T08:17:21.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReminderEmailService.cs",
+              "DocumentMoniker": "D:\\personal\\Department\\Department\\Department\\Services\\ReminderEmailService.cs",
+              "RelativeDocumentMoniker": "Department\\Services\\ReminderEmailService.cs",
+              "ToolTip": "D:\\personal\\Department\\Department\\Department\\Services\\ReminderEmailService.cs",
+              "RelativeToolTip": "Department\\Services\\ReminderEmailService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwBQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:10:20.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\personal\\Department\\Department\\Department\\Program.cs",
+              "RelativeDocumentMoniker": "Department\\Program.cs",
+              "ToolTip": "D:\\personal\\Department\\Department\\Department\\Program.cs",
+              "RelativeToolTip": "Department\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:07:53.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\personal\\Department\\Department\\Department\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Department\\Services\\EmailService.cs",
+              "ToolTip": "D:\\personal\\Department\\Department\\Department\\Services\\EmailService.cs",
+              "RelativeToolTip": "Department\\Services\\EmailService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:44:58.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemindersController.cs",
+              "DocumentMoniker": "D:\\personal\\Department\\Department\\Department\\Controllers\\RemindersController.cs",
+              "RelativeDocumentMoniker": "Department\\Controllers\\RemindersController.cs",
+              "ToolTip": "D:\\personal\\Department\\Department\\Department\\Controllers\\RemindersController.cs",
+              "RelativeToolTip": "Department\\Controllers\\RemindersController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:42:30.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
